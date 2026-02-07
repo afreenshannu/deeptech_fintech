@@ -2,7 +2,7 @@ name: Basic CI
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ main ]
   #  pull_request:
 jobs:
   build:
